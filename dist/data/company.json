@@ -1,0 +1,81 @@
+[{
+    "id": "c1",
+    "imageUrl": "/image/company-1.png",
+    "name": "拉勾网",
+    "industry": "移动互联网",
+    "state": "A轮",
+    "people": "50-150人",
+    "positionClass": [{
+      "id": "jishu",
+      "name": "技术",
+      "positionList": [{
+        "id": "p1",
+        "name": "IOS前端工程师",
+        "createdDate": "2016-04-16 23:30",
+        "salary": "15k-25k"
+      }]
+    }, {
+      "id": "yunying",
+      "name": "运营",
+      "positionList": [{
+        "id": "y1",
+        "name": "运营总监",
+        "createdDate": "2016-04-10 13:30",
+        "salary": "25k以上"
+      }]
+    }]
+},
+{
+    "id": "c3",
+    "imageUrl": "/image/company-3.png",
+    "name": "千度",
+    "industry": "互联网",
+    "state": "已上市",
+    "people": "500人以上",
+    "positionClass": [{
+      "id": "jishu",
+      "name": "技术",
+      "positionList": [{
+        "id": "p1",
+        "name": "JAVA开发工程师",
+        "createdDate": "2016-04-16 23:30",
+        "salary": "15k-25k"
+      }]
+    }, {
+      "id": "yunying",
+      "name": "产品",
+      "positionList": [{
+        "id": "y1",
+        "name": "产品经理",
+        "createdDate": "2016-04-10 13:30",
+        "salary": "25k以上"
+      }]
+    }]
+},
+{
+    "id": "c2",
+    "imageUrl": "/image/company-2.png",
+    "name": "六一集团有限公司",
+    "industry": "互联网",
+    "state": "已上市",
+    "people": "500人以上",
+    "positionClass": [{
+      "id": "jishu",
+      "name": "技术",
+      "positionList": [{
+        "id": "p1",
+        "name": "SEM工程师",
+        "createdDate": "2016-04-16 23:30",
+        "salary": "15k-25k"
+      }]
+    }, {
+      "id": "yunying",
+      "name": "运维",
+      "positionList": [{
+        "id": "y1",
+        "name": "运维工程师",
+        "createdDate": "2016-04-10 13:30",
+        "salary": "10k-20k"
+      }]
+    }]
+}]
